@@ -8,13 +8,12 @@ Five years ago, I built a web scraper that organized articles for easier searchi
 Recently, I dusted off this module for a file-merging task. It still worked but looked ugly, so I decided to refactor it.
 
 ## TODO
-- [ ] Transform into installable package
 - [ ] Add tests
 - [ ] Support reading merged cells
 - [ ] Support merging cells
 - [ ] Support reordering the columns
 - [ ] Add docs
 - [ ] Add proper examples
-
+- [ ] Add UI
 ## License
 MIT
