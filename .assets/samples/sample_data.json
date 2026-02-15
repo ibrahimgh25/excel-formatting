@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {"name": "Alice Johnson", "department": "Engineering", "title": "Senior Developer", "salary": 105000, "start_date": "2021-03-15", "email": "alice.johnson@example.com"},
+    {"name": "Bob Smith", "department": "Engineering", "title": "Tech Lead", "salary": 120000, "start_date": "2019-07-01", "email": "bob.smith@example.com"},
+    {"name": "Carol Davis", "department": "Marketing", "title": "Marketing Manager", "salary": 95000, "start_date": "2020-11-20", "email": "carol.davis@example.com"},
+    {"name": "David Lee", "department": "Sales", "title": "Sales Representative", "salary": 75000, "start_date": "2022-01-10", "email": "david.lee@example.com"},
+    {"name": "Eva Martinez", "department": "Engineering", "title": "Junior Developer", "salary": 78000, "start_date": "2023-06-05", "email": "eva.martinez@example.com"},
+    {"name": "Frank Wilson", "department": "Sales", "title": "Sales Manager", "salary": 98000, "start_date": "2018-09-12", "email": "frank.wilson@example.com"},
+    {"name": "Grace Chen", "department": "Marketing", "title": "Content Strategist", "salary": 82000, "start_date": "2022-04-18", "email": "grace.chen@example.com"},
+    {"name": "Henry Brown", "department": "Engineering", "title": "DevOps Engineer", "salary": 110000, "start_date": "2020-02-28", "email": "henry.brown@example.com"}
+  ],
+  "quarterly_sales": [
+    {"quarter": "Q1 2024", "region": "North", "revenue": 245000, "units_sold": 1230, "target": 240000},
+    {"quarter": "Q1 2024", "region": "South", "revenue": 198000, "units_sold": 980, "target": 210000},
+    {"quarter": "Q1 2024", "region": "East", "revenue": 312000, "units_sold": 1560, "target": 300000},
+    {"quarter": "Q1 2024", "region": "West", "revenue": 275000, "units_sold": 1400, "target": 280000},
+    {"quarter": "Q2 2024", "region": "North", "revenue": 260000, "units_sold": 1300, "target": 250000},
+    {"quarter": "Q2 2024", "region": "South", "revenue": 215000, "units_sold": 1080, "target": 220000},
+    {"quarter": "Q2 2024", "region": "East", "revenue": 330000, "units_sold": 1650, "target": 320000},
+    {"quarter": "Q2 2024", "region": "West", "revenue": 290000, "units_sold": 1450, "target": 290000}
+  ]
+}
